@@ -1,16 +1,24 @@
-## Hi there 👋
+# 你好，我是 ufo778
 
-<!--
-**ufo778/ufo778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一句话介绍：这里写你在做什么，例如「做外贸独立站，也在折腾露营和短视频」。
 
-Here are some ideas to get you started:
+## 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 现在在做：{{当前项目或主业}}
+- 正在学：{{在学的东西}}
+- 可以跟我聊：{{你熟悉、愿意交流的话题}}
+- 其他：{{爱好 / 坐标，不想公开就删掉这一行}}
+
+## 最近在折腾
+
+| 项目 | 一句话说明 |
+|------|-----------|
+| {{项目名}} | {{它是干什么的}} |
+
+## 联系我
+
+- 邮箱：{{选填}}
+
+---
+
+<sub>主页建于 2026-11-18</sub>
